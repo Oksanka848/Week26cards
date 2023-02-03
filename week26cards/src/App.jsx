@@ -2,9 +2,9 @@ import React from 'react';
 import './App.css';
 import './components/Card.css';
 import Card from './components/Card';
+import cards from './components/hero.json'
 
-
-class App extends React.Component {
+export default class App extends React.Component {
   render() {
     return (
       <div className="App">
@@ -19,4 +19,3 @@ class App extends React.Component {
   }
 }
 
-export default App;

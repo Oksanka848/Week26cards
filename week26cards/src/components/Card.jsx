@@ -1,5 +1,3 @@
-import Card from './hero.json';
-
 export default function Card(props) {
   return (
     <article className={`card ${props.avatar}`}>
