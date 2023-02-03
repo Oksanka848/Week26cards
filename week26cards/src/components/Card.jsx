@@ -1,4 +1,6 @@
-function Card(props) {
+import Card from './hero.json';
+
+export default function Card(props) {
   return (
     <article className={`card ${props.avatar}`}>
       {props.children}
@@ -20,4 +22,3 @@ function Card(props) {
 
   );
 }
-export default Card;
