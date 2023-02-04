@@ -1,5 +1,6 @@
 [
   {
+    "id": "Бэтмен",
     "avatar": "card--1",
     "name": "Бэтмен",
     "univers": "DC Comics",
@@ -10,6 +11,7 @@
   },
 
   {
+    "id": "Супермен",
     "avatar": "card--2",
     "name": "Супермен",
     "univers": "DC Comics",
@@ -21,6 +23,7 @@
   },
 
   {
+    "id": "Железный человек",
     "avatar": "card--3",
     "name": "Железный человек",
     "univers": "Marvel Comics",
@@ -32,6 +35,7 @@
   },
 
   {
+    "id": "Спайдер",
     "avatar": "card--4",
     "name": "Спайдер-мен/Человек-паук",
     "univers": "Marvel Comics",
@@ -43,6 +47,7 @@
   },
 
   {
+    "id": "Капитан Америка",
     "avatar": "card--5",
     "name": "Капитан Америка",
     "univers": "Marvel Comics",
@@ -54,6 +59,7 @@
   },
 
   {
+    "id": "Тор",
     "avatar": "card--6",
     "name": "Тор",
     "univers": "Marvel Comics",
@@ -64,6 +70,7 @@
   },
 
   {
+    "id": "Халк",
     "avatar": "card--7",
     "name": "Халк",
     "univers": "Marvel Comics",
@@ -74,6 +81,7 @@
   },
 
   {
+    "id": "Чудо-женщина",
     "avatar": "card--8",
     "name": "Чудо-женщина",
     "univers": "DC Comics",
@@ -84,6 +92,7 @@
   },
 
   {
+    "id": "Черная вдова",
     "avatar": "card--9",
     "name": "Черная вдова",
     "univers": "Marvel Comics",
@@ -95,6 +104,7 @@
   },
 
   {
+    "id": "Дэдпул",
     "avatar": "card--10",
     "name": "Дэдпул",
     "univers": "Marvel Comics",
