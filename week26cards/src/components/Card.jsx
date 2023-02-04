@@ -12,7 +12,7 @@ export default function Card(props) {
         <p className="card__title">Род деятельности: <strong>{props.job}</strong></p>
         <p className="card__title">Друзья: <strong>{props.friens}</strong></p>
         <p className="card__title">Суперсилы: <strong>{props.powers}</strong></p>
-        <label className="card__by"> <a className="card__author" title="author">RATE</a></label>
+        <label className="card__by"> <a href='/#' className="card__author" title="author">RATE</a></label>
       </div>
     </article>
   );
