@@ -1,4 +1,4 @@
-function Card(props) {
+export default function Card(props) {
   return (
     <article className={`card ${props.avatar}`}>
       {props.children}
@@ -14,10 +14,7 @@ function Card(props) {
         <p className="card__title">Друзья: <strong>{props.friens}</strong></p>
         <p className="card__title">Суперсилы: <strong>{props.powers}</strong></p>
         <label className="card__by"> <a className="card__author" title="author">RATE</a></label>
-
       </div>
     </article>
-
   );
 }
-export default Card;
