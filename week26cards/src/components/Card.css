@@ -148,33 +148,6 @@
 }
 
 .star-rating {
-  font-size: 0;
+  font-size: 2em;
 }
 
-.star-rating__wrap {
-  display: inline-block;
-  font-size: 1rem;
-  white-space: nowrap;
-  margin-top: 5%;
-}
-
-.star-rating__wrap:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.star-rating__ico {
-  float: right;
-  padding-left: 2px;
-  cursor: pointer;
-  color: #fff0cc;
-}
-
-.star-rating__ico:last-child {
-  padding-left: 0;
-}
-
-.star-rating__input {
-  display: none;
-}
