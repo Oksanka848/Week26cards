@@ -15,7 +15,6 @@ export default function Card(props) {
         <p className="card__title">Суперсилы: <strong>{props.powers}</strong></p>
         <label className="card__by"> <p className="card__author" title="author">RATE</p><StarRating/></label>
       </div>
-      
-    </div>
+     </div>
   );
 }
